@@ -1,0 +1,4893 @@
+{
+    "top_targets": [
+        "ENSP00000388107",
+        "ENSP00000413436",
+        "ENSP00000447001",
+        "ENSP00000389103",
+        "ENSP00000272317"
+    ],
+    "all_results": [
+        {
+            "node_id": "ENSP00000339826",
+            "true_mnc": 6.0,
+            "ai_pred": 12.626521110534668,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000451506",
+            "true_mnc": 1.0,
+            "ai_pred": -4.010725021362305,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000406209",
+            "true_mnc": 8.0,
+            "ai_pred": 6.791646957397461,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000357709",
+            "true_mnc": 2.0,
+            "ai_pred": 3.6829376220703125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000265713",
+            "true_mnc": 17.0,
+            "ai_pred": 38.235660552978516,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000346437",
+            "true_mnc": 2.0,
+            "ai_pred": 2.6625518798828125,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000483567",
+            "true_mnc": 8.0,
+            "ai_pred": 7.535345077514648,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000367049",
+            "true_mnc": 12.0,
+            "ai_pred": 8.563920974731445,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000300093",
+            "true_mnc": 10.0,
+            "ai_pred": 10.657910346984863,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000264657",
+            "true_mnc": 37.0,
+            "ai_pred": 19.421480178833008,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000482678",
+            "true_mnc": 11.0,
+            "ai_pred": 7.335517883300781,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000484824",
+            "true_mnc": 15.0,
+            "ai_pred": 9.411856651306152,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000452662",
+            "true_mnc": 5.0,
+            "ai_pred": 7.013788223266602,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000415416",
+            "true_mnc": 2.0,
+            "ai_pred": -5.578577041625977,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000362441",
+            "true_mnc": 21.0,
+            "ai_pred": 36.04467010498047,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000257290",
+            "true_mnc": 14.0,
+            "ai_pred": 15.300602912902832,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000402107",
+            "true_mnc": 15.0,
+            "ai_pred": 36.656410217285156,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000370270",
+            "true_mnc": 1.0,
+            "ai_pred": -3.5046920776367188,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000265849",
+            "true_mnc": 9.0,
+            "ai_pred": 17.662792205810547,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000377001",
+            "true_mnc": 1.0,
+            "ai_pred": 14.709670066833496,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000363435",
+            "true_mnc": 11.0,
+            "ai_pred": 10.336953163146973,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000264926",
+            "true_mnc": 4.0,
+            "ai_pred": 18.703838348388672,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000375978",
+            "true_mnc": 29.0,
+            "ai_pred": 29.420368194580078,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000466834",
+            "true_mnc": 3.0,
+            "ai_pred": 3.726602554321289,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000299575",
+            "true_mnc": 2.0,
+            "ai_pred": 17.823047637939453,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000480157",
+            "true_mnc": 8.0,
+            "ai_pred": 12.558526039123535,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000330737",
+            "true_mnc": 29.0,
+            "ai_pred": 29.94620132446289,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000362057",
+            "true_mnc": 10.0,
+            "ai_pred": 4.138214111328125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000498881",
+            "true_mnc": 29.0,
+            "ai_pred": 26.272769927978516,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000401303",
+            "true_mnc": 37.0,
+            "ai_pred": 25.16644287109375,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000437360",
+            "true_mnc": 40.0,
+            "ai_pred": 43.19883728027344,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000352271",
+            "true_mnc": 10.0,
+            "ai_pred": -0.5577316284179688,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000227507",
+            "true_mnc": 11.0,
+            "ai_pred": 30.60692024230957,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000367705",
+            "true_mnc": 36.0,
+            "ai_pred": 45.773643493652344,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000431885",
+            "true_mnc": 12.0,
+            "ai_pred": 21.268335342407227,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000378368",
+            "true_mnc": 4.0,
+            "ai_pred": 1.1786766052246094,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000434024",
+            "true_mnc": 51.0,
+            "ai_pred": 44.001502990722656,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000258418",
+            "true_mnc": 4.0,
+            "ai_pred": -7.463800430297852,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000366702",
+            "true_mnc": 1.0,
+            "ai_pred": -3.561441421508789,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000447730",
+            "true_mnc": 8.0,
+            "ai_pred": 12.587006568908691,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000362744",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873840332031,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000233146",
+            "true_mnc": 31.0,
+            "ai_pred": 31.89568328857422,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000317334",
+            "true_mnc": 12.0,
+            "ai_pred": 16.707294464111328,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000025008",
+            "true_mnc": 2.0,
+            "ai_pred": 7.307849884033203,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000457411",
+            "true_mnc": 2.0,
+            "ai_pred": 3.5292415618896484,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000354813",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946197509765625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000419945",
+            "true_mnc": 2.0,
+            "ai_pred": 9.88841724395752,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000363591",
+            "true_mnc": 6.0,
+            "ai_pred": 4.648590087890625,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000328269",
+            "true_mnc": 5.0,
+            "ai_pred": 21.286842346191406,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000344635",
+            "true_mnc": 1.0,
+            "ai_pred": -4.993343353271484,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000379441",
+            "true_mnc": 2.0,
+            "ai_pred": -2.4191532135009766,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000367527",
+            "true_mnc": 25.0,
+            "ai_pred": 30.787296295166016,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000285021",
+            "true_mnc": 26.0,
+            "ai_pred": 33.84577178955078,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000417132",
+            "true_mnc": 17.0,
+            "ai_pred": 42.861419677734375,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000254322",
+            "true_mnc": 11.0,
+            "ai_pred": 12.340434074401855,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000274376",
+            "true_mnc": 4.0,
+            "ai_pred": 11.834165573120117,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000309830",
+            "true_mnc": 87.0,
+            "ai_pred": 84.8843765258789,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000318635",
+            "true_mnc": 4.0,
+            "ai_pred": 2.353973388671875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000348849",
+            "true_mnc": 87.0,
+            "ai_pred": 85.82788848876953,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000277120",
+            "true_mnc": 8.0,
+            "ai_pred": 13.640039443969727,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000359345",
+            "true_mnc": 88.0,
+            "ai_pred": 75.04450225830078,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000347184",
+            "true_mnc": 9.0,
+            "ai_pred": 19.220746994018555,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000358151",
+            "true_mnc": 58.0,
+            "ai_pred": 49.54383850097656,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000344352",
+            "true_mnc": 7.0,
+            "ai_pred": 12.408305168151855,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000349588",
+            "true_mnc": 7.0,
+            "ai_pred": 5.60413932800293,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000384638",
+            "true_mnc": 12.0,
+            "ai_pred": 13.204933166503906,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000365851",
+            "true_mnc": 45.0,
+            "ai_pred": 53.905967712402344,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000362680",
+            "true_mnc": 65.0,
+            "ai_pred": 25.273847579956055,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000265038",
+            "true_mnc": 25.0,
+            "ai_pred": 33.66989517211914,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000216714",
+            "true_mnc": 28.0,
+            "ai_pred": 40.679012298583984,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000483185",
+            "true_mnc": 7.0,
+            "ai_pred": 11.525972366333008,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000261769",
+            "true_mnc": 121.0,
+            "ai_pred": 76.72671508789062,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000411898",
+            "true_mnc": 2.0,
+            "ai_pred": 1.9324932098388672,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000261427",
+            "true_mnc": 4.0,
+            "ai_pred": 13.236495971679688,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000329967",
+            "true_mnc": 7.0,
+            "ai_pred": 11.943461418151855,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000442954",
+            "true_mnc": 9.0,
+            "ai_pred": 11.347394943237305,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000392709",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946199417114258,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000257430",
+            "true_mnc": 9.0,
+            "ai_pred": 10.802371978759766,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000385675",
+            "true_mnc": 7.0,
+            "ai_pred": 14.00624942779541,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000310520",
+            "true_mnc": 27.0,
+            "ai_pred": 27.09222412109375,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000357113",
+            "true_mnc": 2.0,
+            "ai_pred": -7.435007095336914,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000345731",
+            "true_mnc": 3.0,
+            "ai_pred": 14.638315200805664,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000433205",
+            "true_mnc": 1.0,
+            "ai_pred": 10.834579467773438,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000358160",
+            "true_mnc": 58.0,
+            "ai_pred": 45.2927360534668,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000376902",
+            "true_mnc": 2.0,
+            "ai_pred": -1.1788291931152344,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000383042",
+            "true_mnc": 39.0,
+            "ai_pred": 35.30724334716797,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000452763",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14916229248047,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000385216",
+            "true_mnc": 14.0,
+            "ai_pred": 23.360145568847656,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000301962",
+            "true_mnc": 1.0,
+            "ai_pred": -4.951942443847656,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000260810",
+            "true_mnc": 16.0,
+            "ai_pred": 14.240141868591309,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000314004",
+            "true_mnc": 42.0,
+            "ai_pred": 42.60822296142578,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000346032",
+            "true_mnc": 5.0,
+            "ai_pred": 6.900367736816406,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000346300",
+            "true_mnc": 19.0,
+            "ai_pred": 24.525978088378906,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000282588",
+            "true_mnc": 7.0,
+            "ai_pred": 11.739778518676758,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000473348",
+            "true_mnc": 3.0,
+            "ai_pred": 5.063896179199219,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000382800",
+            "true_mnc": 6.0,
+            "ai_pred": 7.221197128295898,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000276689",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946205139160156,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000479719",
+            "true_mnc": 3.0,
+            "ai_pred": 7.895832061767578,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000344220",
+            "true_mnc": 2.0,
+            "ai_pred": 0.04695320129394531,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000362308",
+            "true_mnc": 1.0,
+            "ai_pred": -3.499570846557617,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000356972",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946197509765625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000222254",
+            "true_mnc": 20.0,
+            "ai_pred": 21.35871696472168,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000489282",
+            "true_mnc": 58.0,
+            "ai_pred": 45.30231475830078,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000361186",
+            "true_mnc": 1.0,
+            "ai_pred": -4.964357376098633,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000418915",
+            "true_mnc": 12.0,
+            "ai_pred": 20.896913528442383,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000497069",
+            "true_mnc": 26.0,
+            "ai_pred": 16.44033432006836,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000472985",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873077392578,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000219255",
+            "true_mnc": 8.0,
+            "ai_pred": 1.4397106170654297,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000479461",
+            "true_mnc": 68.0,
+            "ai_pred": 53.817413330078125,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000363921",
+            "true_mnc": 11.0,
+            "ai_pred": 3.8790111541748047,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000244007",
+            "true_mnc": 23.0,
+            "ai_pred": 20.980648040771484,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000257904",
+            "true_mnc": 18.0,
+            "ai_pred": 18.731775283813477,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000462468",
+            "true_mnc": 10.0,
+            "ai_pred": 11.198760032653809,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000391592",
+            "true_mnc": 6.0,
+            "ai_pred": 9.91828441619873,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000251810",
+            "true_mnc": 1.0,
+            "ai_pred": -4.977441787719727,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000262160",
+            "true_mnc": 14.0,
+            "ai_pred": 14.414421081542969,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000379339",
+            "true_mnc": 87.0,
+            "ai_pred": 85.80838012695312,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000265171",
+            "true_mnc": 21.0,
+            "ai_pred": 19.04635238647461,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000268668",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946195602416992,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000462521",
+            "true_mnc": 1.0,
+            "ai_pred": 5.630590438842773,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000351908",
+            "true_mnc": 4.0,
+            "ai_pred": 17.028902053833008,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000293328",
+            "true_mnc": 14.0,
+            "ai_pred": 22.81572723388672,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000265081",
+            "true_mnc": 29.0,
+            "ai_pred": 31.843441009521484,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000406490",
+            "true_mnc": 6.0,
+            "ai_pred": 19.246047973632812,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000258091",
+            "true_mnc": 11.0,
+            "ai_pred": 17.28846549987793,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000278572",
+            "true_mnc": 90.0,
+            "ai_pred": 58.26000213623047,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000357804",
+            "true_mnc": 2.0,
+            "ai_pred": -6.5149383544921875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000427514",
+            "true_mnc": 7.0,
+            "ai_pred": 10.785314559936523,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000222693",
+            "true_mnc": 6.0,
+            "ai_pred": 7.881143569946289,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000352627",
+            "true_mnc": 35.0,
+            "ai_pred": 53.35218811035156,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000406162",
+            "true_mnc": 6.0,
+            "ai_pred": 20.032833099365234,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000269305",
+            "true_mnc": 201.0,
+            "ai_pred": 46.84856414794922,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000220849",
+            "true_mnc": 33.0,
+            "ai_pred": 65.23880004882812,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000261623",
+            "true_mnc": 9.0,
+            "ai_pred": 4.291891098022461,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000405965",
+            "true_mnc": 4.0,
+            "ai_pred": 9.151951789855957,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000303754",
+            "true_mnc": 7.0,
+            "ai_pred": 6.844797134399414,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000263735",
+            "true_mnc": 5.0,
+            "ai_pred": 8.543012619018555,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000403459",
+            "true_mnc": 6.0,
+            "ai_pred": 4.793676376342773,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000367806",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873077392578,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000499037",
+            "true_mnc": 12.0,
+            "ai_pred": 17.503660202026367,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000421339",
+            "true_mnc": 2.0,
+            "ai_pred": -1.5206871032714844,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000462664",
+            "true_mnc": 4.0,
+            "ai_pred": 12.921937942504883,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000493728",
+            "true_mnc": 3.0,
+            "ai_pred": 21.981956481933594,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000278616",
+            "true_mnc": 58.0,
+            "ai_pred": 29.21249008178711,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000055077",
+            "true_mnc": 5.0,
+            "ai_pred": 7.13477897644043,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000331310",
+            "true_mnc": 10.0,
+            "ai_pred": 33.634124755859375,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000417498",
+            "true_mnc": 4.0,
+            "ai_pred": 1.42047119140625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000391090",
+            "true_mnc": 4.0,
+            "ai_pred": 17.24835205078125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000444357",
+            "true_mnc": 7.0,
+            "ai_pred": 14.47010612487793,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000347168",
+            "true_mnc": 68.0,
+            "ai_pred": 53.820556640625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000281456",
+            "true_mnc": 6.0,
+            "ai_pred": 10.006046295166016,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000251413",
+            "true_mnc": 9.0,
+            "ai_pred": 8.12837028503418,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000378485",
+            "true_mnc": 1.0,
+            "ai_pred": 14.949166297912598,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000342235",
+            "true_mnc": 22.0,
+            "ai_pred": 24.151159286499023,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000480316",
+            "true_mnc": 12.0,
+            "ai_pred": 8.562583923339844,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000333277",
+            "true_mnc": 74.0,
+            "ai_pred": 66.91757202148438,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000357704",
+            "true_mnc": 2.0,
+            "ai_pred": 7.906745910644531,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000307183",
+            "true_mnc": 20.0,
+            "ai_pred": 28.57648277282715,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000354218",
+            "true_mnc": 2.0,
+            "ai_pred": 1.9809188842773438,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000286788",
+            "true_mnc": 11.0,
+            "ai_pred": 17.287506103515625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000320176",
+            "true_mnc": 10.0,
+            "ai_pred": 12.377729415893555,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000231509",
+            "true_mnc": 21.0,
+            "ai_pred": 19.694244384765625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000336701",
+            "true_mnc": 11.0,
+            "ai_pred": 6.766700744628906,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000357748",
+            "true_mnc": 1.0,
+            "ai_pred": 23.929216384887695,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000391594",
+            "true_mnc": 1.0,
+            "ai_pred": 6.829645156860352,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000482093",
+            "true_mnc": 1.0,
+            "ai_pred": 11.362170219421387,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000476145",
+            "true_mnc": 1.0,
+            "ai_pred": -5.119802474975586,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000384273",
+            "true_mnc": 33.0,
+            "ai_pred": 28.482141494750977,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000361076",
+            "true_mnc": 87.0,
+            "ai_pred": 84.88434600830078,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000482543",
+            "true_mnc": 29.0,
+            "ai_pred": 29.793045043945312,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000295797",
+            "true_mnc": 9.0,
+            "ai_pred": 4.98411750793457,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000419260",
+            "true_mnc": 9.0,
+            "ai_pred": 13.252771377563477,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000451300",
+            "true_mnc": 5.0,
+            "ai_pred": 10.888324737548828,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000499044",
+            "true_mnc": 87.0,
+            "ai_pred": 77.46922302246094,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000247970",
+            "true_mnc": 4.0,
+            "ai_pred": 5.811098098754883,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000370503",
+            "true_mnc": 2.0,
+            "ai_pred": 1.5732231140136719,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000310008",
+            "true_mnc": 25.0,
+            "ai_pred": 30.785831451416016,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000259008",
+            "true_mnc": 16.0,
+            "ai_pred": 21.106489181518555,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000428085",
+            "true_mnc": 87.0,
+            "ai_pred": 84.8843994140625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000375863",
+            "true_mnc": 1.0,
+            "ai_pred": 7.327840805053711,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000264972",
+            "true_mnc": 15.0,
+            "ai_pred": 18.33878517150879,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000497290",
+            "true_mnc": 11.0,
+            "ai_pred": 11.249221801757812,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000297185",
+            "true_mnc": 11.0,
+            "ai_pred": 9.014516830444336,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000368370",
+            "true_mnc": 1.0,
+            "ai_pred": -4.9757232666015625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000264731",
+            "true_mnc": 2.0,
+            "ai_pred": 1.9905261993408203,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000479794",
+            "true_mnc": 68.0,
+            "ai_pred": 53.81928253173828,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000262995",
+            "true_mnc": 15.0,
+            "ai_pred": 12.533452033996582,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000275603",
+            "true_mnc": 11.0,
+            "ai_pred": 17.287593841552734,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000403701",
+            "true_mnc": 11.0,
+            "ai_pred": 15.662016868591309,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000481380",
+            "true_mnc": 27.0,
+            "ai_pred": 32.82047653198242,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000320485",
+            "true_mnc": 20.0,
+            "ai_pred": 36.082305908203125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000371689",
+            "true_mnc": 5.0,
+            "ai_pred": 11.527871131896973,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000339109",
+            "true_mnc": 40.0,
+            "ai_pred": 43.19903564453125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000246802",
+            "true_mnc": 1.0,
+            "ai_pred": 6.801158905029297,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000343535",
+            "true_mnc": 15.0,
+            "ai_pred": 14.913653373718262,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000363377",
+            "true_mnc": 8.0,
+            "ai_pred": 12.254839897155762,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000304669",
+            "true_mnc": 17.0,
+            "ai_pred": 16.879579544067383,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000356520",
+            "true_mnc": 21.0,
+            "ai_pred": 51.93169403076172,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000343412",
+            "true_mnc": 39.0,
+            "ai_pred": 50.579444885253906,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000483283",
+            "true_mnc": 58.0,
+            "ai_pred": 45.296241760253906,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000472929",
+            "true_mnc": 17.0,
+            "ai_pred": 22.262378692626953,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000355354",
+            "true_mnc": 1.0,
+            "ai_pred": 13.352005004882812,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000205214",
+            "true_mnc": 1.0,
+            "ai_pred": 6.861940383911133,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000357721",
+            "true_mnc": 6.0,
+            "ai_pred": 7.896053314208984,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000371308",
+            "true_mnc": 11.0,
+            "ai_pred": 8.174962997436523,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000263904",
+            "true_mnc": 7.0,
+            "ai_pred": 11.9544095993042,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000348838",
+            "true_mnc": 42.0,
+            "ai_pred": 43.982505798339844,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000264012",
+            "true_mnc": 7.0,
+            "ai_pred": 11.33993148803711,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000327268",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946197509765625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000215832",
+            "true_mnc": 16.0,
+            "ai_pred": 13.716209411621094,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000376077",
+            "true_mnc": 8.0,
+            "ai_pred": 9.77365779876709,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000454786",
+            "true_mnc": 85.0,
+            "ai_pred": 85.5223388671875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000356480",
+            "true_mnc": 48.0,
+            "ai_pred": 52.11217498779297,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000297494",
+            "true_mnc": 6.0,
+            "ai_pred": 7.096364974975586,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000340330",
+            "true_mnc": 25.0,
+            "ai_pred": 19.298154830932617,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000484095",
+            "true_mnc": 58.0,
+            "ai_pred": 45.296844482421875,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000417142",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946205139160156,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000256925",
+            "true_mnc": 3.0,
+            "ai_pred": 5.208646774291992,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000381698",
+            "true_mnc": 2.0,
+            "ai_pred": 6.10957145690918,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000371475",
+            "true_mnc": 46.0,
+            "ai_pred": 38.10260772705078,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000360672",
+            "true_mnc": 8.0,
+            "ai_pred": 1.4397087097167969,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000352408",
+            "true_mnc": 6.0,
+            "ai_pred": 28.21215057373047,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000369424",
+            "true_mnc": 25.0,
+            "ai_pred": 38.48333740234375,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000369757",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873840332031,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000319788",
+            "true_mnc": 2.0,
+            "ai_pred": 2.7012996673583984,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000263754",
+            "true_mnc": 38.0,
+            "ai_pred": 41.989315032958984,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000354687",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946195602416992,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000244869",
+            "true_mnc": 6.0,
+            "ai_pred": 8.52583122253418,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000269571",
+            "true_mnc": 58.0,
+            "ai_pred": 27.422494888305664,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000284981",
+            "true_mnc": 7.0,
+            "ai_pred": 13.136089324951172,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000433560",
+            "true_mnc": 1.0,
+            "ai_pred": 3.857492446899414,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000354961",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946199417114258,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000363019",
+            "true_mnc": 25.0,
+            "ai_pred": 40.03076934814453,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000379287",
+            "true_mnc": 12.0,
+            "ai_pred": 14.733131408691406,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000339637",
+            "true_mnc": 1.0,
+            "ai_pred": 7.305990219116211,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000419665",
+            "true_mnc": 2.0,
+            "ai_pred": 1.5350418090820312,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000378414",
+            "true_mnc": 32.0,
+            "ai_pred": 46.04918670654297,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000370193",
+            "true_mnc": 31.0,
+            "ai_pred": 46.12397003173828,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000262241",
+            "true_mnc": 30.0,
+            "ai_pred": 32.80522155761719,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000212015",
+            "true_mnc": 15.0,
+            "ai_pred": 26.43666648864746,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000401277",
+            "true_mnc": 1.0,
+            "ai_pred": 13.350704193115234,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000365458",
+            "true_mnc": 2.0,
+            "ai_pred": 14.169166564941406,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000230354",
+            "true_mnc": 32.0,
+            "ai_pred": 38.629913330078125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000363017",
+            "true_mnc": 14.0,
+            "ai_pred": 19.58374786376953,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000362649",
+            "true_mnc": 53.0,
+            "ai_pred": 39.31394958496094,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000426191",
+            "true_mnc": 6.0,
+            "ai_pred": 12.727977752685547,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000377681",
+            "true_mnc": 2.0,
+            "ai_pred": 14.275660514831543,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000346012",
+            "true_mnc": 86.0,
+            "ai_pred": 85.149169921875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000367433",
+            "true_mnc": 1.0,
+            "ai_pred": 13.350799560546875,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000394496",
+            "true_mnc": 4.0,
+            "ai_pred": 1.1732635498046875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000315774",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946205139160156,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000222390",
+            "true_mnc": 6.0,
+            "ai_pred": 5.591053009033203,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000462667",
+            "true_mnc": 68.0,
+            "ai_pred": 53.850013732910156,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000202556",
+            "true_mnc": 1.0,
+            "ai_pred": -4.9892578125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000345206",
+            "true_mnc": 8.0,
+            "ai_pred": 10.465864181518555,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000437955",
+            "true_mnc": 25.0,
+            "ai_pred": 18.17068862915039,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000292408",
+            "true_mnc": 3.0,
+            "ai_pred": 9.262347221374512,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000398632",
+            "true_mnc": 22.0,
+            "ai_pred": 24.40074920654297,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000353863",
+            "true_mnc": 1.0,
+            "ai_pred": -4.95750617980957,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000317955",
+            "true_mnc": 1.0,
+            "ai_pred": 6.105785369873047,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000378163",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14913177490234,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000324101",
+            "true_mnc": 8.0,
+            "ai_pred": 6.829328536987305,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000435777",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873840332031,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000354476",
+            "true_mnc": 1.0,
+            "ai_pred": -4.993555068969727,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000256442",
+            "true_mnc": 12.0,
+            "ai_pred": 35.001277923583984,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000359073",
+            "true_mnc": 5.0,
+            "ai_pred": 8.030265808105469,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000266088",
+            "true_mnc": 1.0,
+            "ai_pred": -3.554943084716797,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000359424",
+            "true_mnc": 16.0,
+            "ai_pred": 19.677906036376953,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000252102",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946199417114258,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000348056",
+            "true_mnc": 8.0,
+            "ai_pred": 21.20802879333496,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000303394",
+            "true_mnc": 5.0,
+            "ai_pred": 8.066287994384766,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000227322",
+            "true_mnc": 1.0,
+            "ai_pred": -3.544933319091797,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000349957",
+            "true_mnc": 38.0,
+            "ai_pred": 44.166709899902344,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000483842",
+            "true_mnc": 46.0,
+            "ai_pred": 43.26966857910156,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000387699",
+            "true_mnc": 10.0,
+            "ai_pred": 16.18665313720703,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000347379",
+            "true_mnc": 8.0,
+            "ai_pred": 10.452512741088867,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000230990",
+            "true_mnc": 9.0,
+            "ai_pred": 6.032482147216797,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000420588",
+            "true_mnc": 2.0,
+            "ai_pred": 10.143098831176758,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000305372",
+            "true_mnc": 5.0,
+            "ai_pred": 15.053248405456543,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000335153",
+            "true_mnc": 50.0,
+            "ai_pred": 24.800146102905273,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000260010",
+            "true_mnc": 9.0,
+            "ai_pred": 8.649526596069336,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000463842",
+            "true_mnc": 86.0,
+            "ai_pred": 85.1491470336914,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000344666",
+            "true_mnc": 5.0,
+            "ai_pred": 18.332172393798828,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000434614",
+            "true_mnc": 42.0,
+            "ai_pred": 45.10303497314453,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000319169",
+            "true_mnc": 18.0,
+            "ai_pred": 37.960025787353516,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000341208",
+            "true_mnc": 14.0,
+            "ai_pred": 20.86416244506836,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000426909",
+            "true_mnc": 89.0,
+            "ai_pred": 87.07290649414062,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000438788",
+            "true_mnc": 38.0,
+            "ai_pred": 40.87684631347656,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000344215",
+            "true_mnc": 2.0,
+            "ai_pred": -0.20050811767578125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000217109",
+            "true_mnc": 2.0,
+            "ai_pred": 11.096102714538574,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000299300",
+            "true_mnc": 12.0,
+            "ai_pred": 16.71067237854004,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000200181",
+            "true_mnc": 8.0,
+            "ai_pred": 17.25382423400879,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000354522",
+            "true_mnc": 2.0,
+            "ai_pred": 1.4322185516357422,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000360683",
+            "true_mnc": 9.0,
+            "ai_pred": 13.777998924255371,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000369176",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946199417114258,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000013807",
+            "true_mnc": 27.0,
+            "ai_pred": 28.35230827331543,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000242261",
+            "true_mnc": 3.0,
+            "ai_pred": 5.134607315063477,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000371958",
+            "true_mnc": 11.0,
+            "ai_pred": 9.635106086730957,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000306253",
+            "true_mnc": 9.0,
+            "ai_pred": 6.61871337890625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000310356",
+            "true_mnc": 5.0,
+            "ai_pred": 10.728643417358398,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000377192",
+            "true_mnc": 3.0,
+            "ai_pred": 5.062089920043945,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000346001",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14916229248047,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000359300",
+            "true_mnc": 27.0,
+            "ai_pred": 35.87226867675781,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000484789",
+            "true_mnc": 68.0,
+            "ai_pred": 53.818824768066406,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000262613",
+            "true_mnc": 8.0,
+            "ai_pred": 5.723762512207031,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000052754",
+            "true_mnc": 12.0,
+            "ai_pred": 10.279236793518066,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000269385",
+            "true_mnc": 44.0,
+            "ai_pred": 46.50514221191406,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000395772",
+            "true_mnc": 3.0,
+            "ai_pred": 6.11839485168457,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000358862",
+            "true_mnc": 41.0,
+            "ai_pred": 49.025672912597656,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000462355",
+            "true_mnc": 68.0,
+            "ai_pred": 53.8175048828125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000364801",
+            "true_mnc": 11.0,
+            "ai_pred": 14.137482643127441,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000379350",
+            "true_mnc": 21.0,
+            "ai_pred": 20.380104064941406,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000265421",
+            "true_mnc": 2.0,
+            "ai_pred": 5.64851188659668,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000437125",
+            "true_mnc": 23.0,
+            "ai_pred": 27.22652244567871,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000386419",
+            "true_mnc": 11.0,
+            "ai_pred": 8.178606033325195,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000399968",
+            "true_mnc": 10.0,
+            "ai_pred": 28.2474308013916,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000379975",
+            "true_mnc": 3.0,
+            "ai_pred": 7.5241546630859375,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000310572",
+            "true_mnc": 4.0,
+            "ai_pred": 9.565686225891113,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000268182",
+            "true_mnc": 14.0,
+            "ai_pred": 4.682758331298828,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000417273",
+            "true_mnc": 22.0,
+            "ai_pred": 24.31910514831543,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000419923",
+            "true_mnc": 1.0,
+            "ai_pred": -4.948097229003906,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000369981",
+            "true_mnc": 8.0,
+            "ai_pred": 21.693490982055664,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000309334",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14915466308594,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000312741",
+            "true_mnc": 1.0,
+            "ai_pred": -5.849933624267578,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000223023",
+            "true_mnc": 12.0,
+            "ai_pred": 13.41906452178955,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000269141",
+            "true_mnc": 16.0,
+            "ai_pred": 24.779403686523438,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000351284",
+            "true_mnc": 9.0,
+            "ai_pred": 19.215576171875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000258149",
+            "true_mnc": 40.0,
+            "ai_pred": 37.585079193115234,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000302476",
+            "true_mnc": 5.0,
+            "ai_pred": 8.875847816467285,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000299166",
+            "true_mnc": 29.0,
+            "ai_pred": 29.94620132446289,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000311360",
+            "true_mnc": 9.0,
+            "ai_pred": 20.97507095336914,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000001008",
+            "true_mnc": 12.0,
+            "ai_pred": 13.472289085388184,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000320898",
+            "true_mnc": 11.0,
+            "ai_pred": 29.965011596679688,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000263967",
+            "true_mnc": 29.0,
+            "ai_pred": 17.80404281616211,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000263253",
+            "true_mnc": 89.0,
+            "ai_pred": 53.08491134643555,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000244050",
+            "true_mnc": 11.0,
+            "ai_pred": 20.69302749633789,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000308750",
+            "true_mnc": 53.0,
+            "ai_pred": 50.09461975097656,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000361423",
+            "true_mnc": 7.0,
+            "ai_pred": 12.590353965759277,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000329357",
+            "true_mnc": 20.0,
+            "ai_pred": 25.71833610534668,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000317872",
+            "true_mnc": 1.0,
+            "ai_pred": -4.995708465576172,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000464813",
+            "true_mnc": 86.0,
+            "ai_pred": 85.149169921875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000261819",
+            "true_mnc": 40.0,
+            "ai_pred": 43.19904327392578,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000385958",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873840332031,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000497733",
+            "true_mnc": 28.0,
+            "ai_pred": 15.961913108825684,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000256103",
+            "true_mnc": 1.0,
+            "ai_pred": 13.351630210876465,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000360682",
+            "true_mnc": 25.0,
+            "ai_pred": 30.7878360748291,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000366563",
+            "true_mnc": 15.0,
+            "ai_pred": 21.58814239501953,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000300651",
+            "true_mnc": 35.0,
+            "ai_pred": 39.98607635498047,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000356438",
+            "true_mnc": 1.0,
+            "ai_pred": -4.946811676025391,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000329466",
+            "true_mnc": 3.0,
+            "ai_pred": 14.617682456970215,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000385450",
+            "true_mnc": 10.0,
+            "ai_pred": 3.8296432495117188,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000497806",
+            "true_mnc": 8.0,
+            "ai_pred": 21.097091674804688,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000348416",
+            "true_mnc": 18.0,
+            "ai_pred": 18.906328201293945,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000393313",
+            "true_mnc": 10.0,
+            "ai_pred": 10.758373260498047,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000261402",
+            "true_mnc": 1.0,
+            "ai_pred": -5.868316650390625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000262584",
+            "true_mnc": 87.0,
+            "ai_pred": 84.88433074951172,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000328835",
+            "true_mnc": 1.0,
+            "ai_pred": -4.954294204711914,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000483300",
+            "true_mnc": 1.0,
+            "ai_pred": 7.296092987060547,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000370473",
+            "true_mnc": 5.0,
+            "ai_pred": 6.918481826782227,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000357005",
+            "true_mnc": 6.0,
+            "ai_pred": 7.525903701782227,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000500582",
+            "true_mnc": 2.0,
+            "ai_pred": -6.511722564697266,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000355315",
+            "true_mnc": 87.0,
+            "ai_pred": 84.88436126708984,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000409581",
+            "true_mnc": 13.0,
+            "ai_pred": 12.819564819335938,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000369857",
+            "true_mnc": 7.0,
+            "ai_pred": 26.743377685546875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000349430",
+            "true_mnc": 47.0,
+            "ai_pred": 43.09465026855469,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000260947",
+            "true_mnc": 99.0,
+            "ai_pred": 55.94914245605469,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000428056",
+            "true_mnc": 43.0,
+            "ai_pred": 19.082544326782227,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000496250",
+            "true_mnc": 88.0,
+            "ai_pred": 83.59846496582031,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000497587",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946199417114258,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000430684",
+            "true_mnc": 16.0,
+            "ai_pred": 20.66731834411621,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000241014",
+            "true_mnc": 2.0,
+            "ai_pred": 10.501935958862305,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000320092",
+            "true_mnc": 5.0,
+            "ai_pred": 16.36272430419922,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000380921",
+            "true_mnc": 11.0,
+            "ai_pred": 15.688119888305664,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000492441",
+            "true_mnc": 85.0,
+            "ai_pred": 85.5223159790039,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000447001",
+            "true_mnc": 88.0,
+            "ai_pred": 94.1671142578125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000435210",
+            "true_mnc": 3.0,
+            "ai_pred": 13.212557792663574,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000321636",
+            "true_mnc": 14.0,
+            "ai_pred": 15.609911918640137,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000476136",
+            "true_mnc": 55.0,
+            "ai_pred": 47.7392578125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000332194",
+            "true_mnc": 48.0,
+            "ai_pred": 51.20067596435547,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000222247",
+            "true_mnc": 87.0,
+            "ai_pred": 84.8843994140625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000304604",
+            "true_mnc": 3.0,
+            "ai_pred": -0.3297710418701172,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000379140",
+            "true_mnc": 4.0,
+            "ai_pred": 3.7782974243164062,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000358742",
+            "true_mnc": 6.0,
+            "ai_pred": 3.5858306884765625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000348554",
+            "true_mnc": 40.0,
+            "ai_pred": 43.199127197265625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000478887",
+            "true_mnc": 28.0,
+            "ai_pred": 32.64088439941406,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000379092",
+            "true_mnc": 5.0,
+            "ai_pred": 1.5160598754882812,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000380033",
+            "true_mnc": 9.0,
+            "ai_pred": 15.025080680847168,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000385571",
+            "true_mnc": 5.0,
+            "ai_pred": 10.642712593078613,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000291560",
+            "true_mnc": 1.0,
+            "ai_pred": 13.139423370361328,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000490767",
+            "true_mnc": 5.0,
+            "ai_pred": 15.037761688232422,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000323099",
+            "true_mnc": 9.0,
+            "ai_pred": 16.145366668701172,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000341957",
+            "true_mnc": 3.0,
+            "ai_pred": 8.213306427001953,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000365016",
+            "true_mnc": 11.0,
+            "ai_pred": 16.833194732666016,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000443017",
+            "true_mnc": 68.0,
+            "ai_pred": 53.81748962402344,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000378857",
+            "true_mnc": 1.0,
+            "ai_pred": -6.027952194213867,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000269397",
+            "true_mnc": 41.0,
+            "ai_pred": 46.33897399902344,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000381034",
+            "true_mnc": 1.0,
+            "ai_pred": 0.48273658752441406,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000373772",
+            "true_mnc": 1.0,
+            "ai_pred": 3.8742313385009766,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000248846",
+            "true_mnc": 12.0,
+            "ai_pred": 8.561578750610352,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000363018",
+            "true_mnc": 86.0,
+            "ai_pred": 85.23698425292969,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000482457",
+            "true_mnc": 17.0,
+            "ai_pred": 14.137765884399414,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000377245",
+            "true_mnc": 5.0,
+            "ai_pred": 11.799384117126465,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000377492",
+            "true_mnc": 2.0,
+            "ai_pred": 1.4963722229003906,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000420294",
+            "true_mnc": 40.0,
+            "ai_pred": 46.73829650878906,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000366999",
+            "true_mnc": 58.0,
+            "ai_pred": 45.295928955078125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000296674",
+            "true_mnc": 87.0,
+            "ai_pred": 85.82798767089844,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000340278",
+            "true_mnc": 3.0,
+            "ai_pred": 6.234804153442383,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000254301",
+            "true_mnc": 7.0,
+            "ai_pred": 3.675434112548828,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000318646",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873077392578,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000380024",
+            "true_mnc": 19.0,
+            "ai_pred": 30.659534454345703,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000310842",
+            "true_mnc": 12.0,
+            "ai_pred": 14.592358589172363,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000378058",
+            "true_mnc": 1.0,
+            "ai_pred": -3.516834259033203,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000389103",
+            "true_mnc": 87.0,
+            "ai_pred": 91.90311431884766,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000362873",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946195602416992,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000266970",
+            "true_mnc": 21.0,
+            "ai_pred": 26.397117614746094,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000360609",
+            "true_mnc": 52.0,
+            "ai_pred": 26.909038543701172,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000345571",
+            "true_mnc": 19.0,
+            "ai_pred": 28.915912628173828,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000288368",
+            "true_mnc": 1.0,
+            "ai_pred": -5.110147476196289,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000481152",
+            "true_mnc": 13.0,
+            "ai_pred": 20.14406394958496,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000377958",
+            "true_mnc": 11.0,
+            "ai_pred": 17.292482376098633,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000276603",
+            "true_mnc": 4.0,
+            "ai_pred": 17.974498748779297,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000353344",
+            "true_mnc": 3.0,
+            "ai_pred": 10.396968841552734,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000377508",
+            "true_mnc": 11.0,
+            "ai_pred": 14.714140892028809,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000384849",
+            "true_mnc": 13.0,
+            "ai_pred": 25.05587387084961,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000248553",
+            "true_mnc": 10.0,
+            "ai_pred": 6.260005950927734,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000484638",
+            "true_mnc": 58.0,
+            "ai_pred": 45.292877197265625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000489597",
+            "true_mnc": 41.0,
+            "ai_pred": 28.267236709594727,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000480301",
+            "true_mnc": 1.0,
+            "ai_pred": -3.4971446990966797,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000464342",
+            "true_mnc": 87.0,
+            "ai_pred": 84.88435363769531,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000363124",
+            "true_mnc": 9.0,
+            "ai_pred": 23.896087646484375,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000230050",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873077392578,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000339328",
+            "true_mnc": 1.0,
+            "ai_pred": -3.5181827545166016,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000339001",
+            "true_mnc": 44.0,
+            "ai_pred": 60.388702392578125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000312143",
+            "true_mnc": 1.0,
+            "ai_pred": -3.5052318572998047,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000228843",
+            "true_mnc": 2.0,
+            "ai_pred": 17.30626678466797,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000371067",
+            "true_mnc": 23.0,
+            "ai_pred": 25.026195526123047,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000367545",
+            "true_mnc": 5.0,
+            "ai_pred": 7.347684860229492,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000267101",
+            "true_mnc": 29.0,
+            "ai_pred": 24.342205047607422,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000252891",
+            "true_mnc": 4.0,
+            "ai_pred": 12.166830062866211,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000254657",
+            "true_mnc": 3.0,
+            "ai_pred": 6.578340530395508,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000407442",
+            "true_mnc": 1.0,
+            "ai_pred": -4.953868865966797,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000477760",
+            "true_mnc": 40.0,
+            "ai_pred": 43.19893264770508,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000288266",
+            "true_mnc": 4.0,
+            "ai_pred": 0.1855297088623047,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000253109",
+            "true_mnc": 1.0,
+            "ai_pred": 13.351469993591309,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000380450",
+            "true_mnc": 8.0,
+            "ai_pred": 5.047754287719727,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000356840",
+            "true_mnc": 3.0,
+            "ai_pred": 12.445449829101562,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000260383",
+            "true_mnc": 12.0,
+            "ai_pred": 8.562437057495117,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000259469",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14918518066406,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000403524",
+            "true_mnc": 1.0,
+            "ai_pred": 7.295843124389648,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000262367",
+            "true_mnc": 59.0,
+            "ai_pred": 42.5166015625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000300574",
+            "true_mnc": 19.0,
+            "ai_pred": 19.864757537841797,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000479106",
+            "true_mnc": 68.0,
+            "ai_pred": 53.8175048828125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000223129",
+            "true_mnc": 10.0,
+            "ai_pred": 19.649446487426758,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000435096",
+            "true_mnc": 87.0,
+            "ai_pred": 77.46924591064453,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000311430",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14913940429688,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000484288",
+            "true_mnc": 25.0,
+            "ai_pred": 30.788288116455078,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000302961",
+            "true_mnc": 34.0,
+            "ai_pred": 19.319149017333984,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000501245",
+            "true_mnc": 1.0,
+            "ai_pred": -3.491485595703125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000346151",
+            "true_mnc": 3.0,
+            "ai_pred": -1.7689437866210938,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000472469",
+            "true_mnc": 87.0,
+            "ai_pred": 85.812255859375,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000351338",
+            "true_mnc": 2.0,
+            "ai_pred": 9.361872673034668,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000359398",
+            "true_mnc": 10.0,
+            "ai_pred": 7.079061508178711,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000313851",
+            "true_mnc": 2.0,
+            "ai_pred": 6.040891647338867,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000263645",
+            "true_mnc": 6.0,
+            "ai_pred": 10.943675994873047,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000336655",
+            "true_mnc": 4.0,
+            "ai_pred": -7.463800430297852,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000451974",
+            "true_mnc": 11.0,
+            "ai_pred": 3.1731796264648438,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000372023",
+            "true_mnc": 10.0,
+            "ai_pred": 2.840005874633789,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000363929",
+            "true_mnc": 2.0,
+            "ai_pred": 7.46739387512207,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000261584",
+            "true_mnc": 28.0,
+            "ai_pred": 29.718486785888672,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000403343",
+            "true_mnc": 1.0,
+            "ai_pred": -0.2366466522216797,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000346015",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14913177490234,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000325690",
+            "true_mnc": 27.0,
+            "ai_pred": 28.267168045043945,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000365230",
+            "true_mnc": 7.0,
+            "ai_pred": 6.313385009765625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000379097",
+            "true_mnc": 7.0,
+            "ai_pred": 10.57387638092041,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000379506",
+            "true_mnc": 86.0,
+            "ai_pred": 85.149169921875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000387739",
+            "true_mnc": 2.0,
+            "ai_pred": 3.455913543701172,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000480826",
+            "true_mnc": 58.0,
+            "ai_pred": 45.34523010253906,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000501150",
+            "true_mnc": 18.0,
+            "ai_pred": 20.39084243774414,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000408695",
+            "true_mnc": 6.0,
+            "ai_pred": 9.07360553741455,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000463379",
+            "true_mnc": 85.0,
+            "ai_pred": 85.52234649658203,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000256078",
+            "true_mnc": 5.0,
+            "ai_pred": 18.87907600402832,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000267082",
+            "true_mnc": 9.0,
+            "ai_pred": 15.550524711608887,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000347232",
+            "true_mnc": 21.0,
+            "ai_pred": 20.491098403930664,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000345957",
+            "true_mnc": 87.0,
+            "ai_pred": 85.81303405761719,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000341189",
+            "true_mnc": 31.0,
+            "ai_pred": 13.296473503112793,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000413436",
+            "true_mnc": 86.0,
+            "ai_pred": 94.71852111816406,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000287598",
+            "true_mnc": 40.0,
+            "ai_pred": 49.00292205810547,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000421491",
+            "true_mnc": 25.0,
+            "ai_pred": 30.788265228271484,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000226574",
+            "true_mnc": 14.0,
+            "ai_pred": 18.038963317871094,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000481021",
+            "true_mnc": 4.0,
+            "ai_pred": 9.762492179870605,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000343896",
+            "true_mnc": 48.0,
+            "ai_pred": 36.59613037109375,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000482674",
+            "true_mnc": 39.0,
+            "ai_pred": 46.02397537231445,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000354910",
+            "true_mnc": 6.0,
+            "ai_pred": 6.057149887084961,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000414321",
+            "true_mnc": 86.0,
+            "ai_pred": 85.8787612915039,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000470972",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873840332031,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000265963",
+            "true_mnc": 29.0,
+            "ai_pred": 44.68214797973633,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000393241",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873077392578,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000481646",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87870025634766,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000296930",
+            "true_mnc": 13.0,
+            "ai_pred": 21.46611213684082,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000262320",
+            "true_mnc": 5.0,
+            "ai_pred": 13.41219711303711,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000316609",
+            "true_mnc": 6.0,
+            "ai_pred": 3.5858306884765625,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000354952",
+            "true_mnc": 19.0,
+            "ai_pred": 22.71693229675293,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000318195",
+            "true_mnc": 3.0,
+            "ai_pred": 15.062491416931152,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000346088",
+            "true_mnc": 86.0,
+            "ai_pred": 85.1491470336914,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000354739",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14915466308594,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000433623",
+            "true_mnc": 24.0,
+            "ai_pred": 20.817846298217773,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000356150",
+            "true_mnc": 9.0,
+            "ai_pred": 13.929906845092773,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000495360",
+            "true_mnc": 55.0,
+            "ai_pred": 28.618507385253906,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000262719",
+            "true_mnc": 4.0,
+            "ai_pred": 8.303903579711914,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000380334",
+            "true_mnc": 9.0,
+            "ai_pred": 6.5982513427734375,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000354728",
+            "true_mnc": 29.0,
+            "ai_pred": 29.94620132446289,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000367022",
+            "true_mnc": 50.0,
+            "ai_pred": 55.06854248046875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000405330",
+            "true_mnc": 50.0,
+            "ai_pred": 23.238353729248047,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000378402",
+            "true_mnc": 13.0,
+            "ai_pred": 19.86566925048828,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000354554",
+            "true_mnc": 28.0,
+            "ai_pred": 25.534042358398438,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000320147",
+            "true_mnc": 59.0,
+            "ai_pred": 45.640968322753906,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000419881",
+            "true_mnc": 10.0,
+            "ai_pred": -0.5775032043457031,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000382628",
+            "true_mnc": 11.0,
+            "ai_pred": 19.081871032714844,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000215565",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946195602416992,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000365588",
+            "true_mnc": 16.0,
+            "ai_pred": 32.86180877685547,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000384048",
+            "true_mnc": 4.0,
+            "ai_pred": 30.023435592651367,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000359531",
+            "true_mnc": 28.0,
+            "ai_pred": 40.704551696777344,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000216024",
+            "true_mnc": 5.0,
+            "ai_pred": 8.467466354370117,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000442460",
+            "true_mnc": 6.0,
+            "ai_pred": 2.4564552307128906,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000231790",
+            "true_mnc": 12.0,
+            "ai_pred": 20.463117599487305,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000406549",
+            "true_mnc": 29.0,
+            "ai_pred": 43.1773681640625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000356070",
+            "true_mnc": 2.0,
+            "ai_pred": 2.6980762481689453,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000349486",
+            "true_mnc": 5.0,
+            "ai_pred": 5.1591033935546875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000420311",
+            "true_mnc": 88.0,
+            "ai_pred": 76.64643096923828,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000403362",
+            "true_mnc": 6.0,
+            "ai_pred": 5.621612548828125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000363787",
+            "true_mnc": 43.0,
+            "ai_pred": 52.143402099609375,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000378760",
+            "true_mnc": 1.0,
+            "ai_pred": -5.187873840332031,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000494750",
+            "true_mnc": 36.0,
+            "ai_pred": 42.03501510620117,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000389351",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87874603271484,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000313950",
+            "true_mnc": 5.0,
+            "ai_pred": 20.735149383544922,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000386717",
+            "true_mnc": 87.0,
+            "ai_pred": 84.88435363769531,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000257118",
+            "true_mnc": 40.0,
+            "ai_pred": 46.738250732421875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000385479",
+            "true_mnc": 66.0,
+            "ai_pred": 64.72144317626953,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000365569",
+            "true_mnc": 4.0,
+            "ai_pred": 2.3955154418945312,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000276893",
+            "true_mnc": 2.0,
+            "ai_pred": -1.1596355438232422,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000262971",
+            "true_mnc": 2.0,
+            "ai_pred": 12.601602554321289,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000372689",
+            "true_mnc": 4.0,
+            "ai_pred": 5.812524795532227,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000482431",
+            "true_mnc": 35.0,
+            "ai_pred": 53.35218811035156,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000281321",
+            "true_mnc": 1.0,
+            "ai_pred": -4.937412261962891,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000275493",
+            "true_mnc": 129.0,
+            "ai_pred": 34.96055603027344,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000437659",
+            "true_mnc": 40.0,
+            "ai_pred": 46.74317169189453,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000384675",
+            "true_mnc": 24.0,
+            "ai_pred": 23.4926700592041,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000345347",
+            "true_mnc": 2.0,
+            "ai_pred": 12.020588874816895,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000216133",
+            "true_mnc": 53.0,
+            "ai_pred": 49.98560333251953,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000355231",
+            "true_mnc": 11.0,
+            "ai_pred": 11.676804542541504,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000298139",
+            "true_mnc": 17.0,
+            "ai_pred": 20.059566497802734,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000367910",
+            "true_mnc": 8.0,
+            "ai_pred": 23.2388973236084,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000323421",
+            "true_mnc": 4.0,
+            "ai_pred": 5.822574615478516,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000222005",
+            "true_mnc": 22.0,
+            "ai_pred": 12.687829971313477,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000356641",
+            "true_mnc": 1.0,
+            "ai_pred": 2.727842330932617,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000284719",
+            "true_mnc": 2.0,
+            "ai_pred": 11.107651710510254,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000259037",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946197509765625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000345083",
+            "true_mnc": 2.0,
+            "ai_pred": 1.5732231140136719,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000388107",
+            "true_mnc": 155.0,
+            "ai_pred": 95.77398681640625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000376637",
+            "true_mnc": 17.0,
+            "ai_pred": 21.945714950561523,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000355771",
+            "true_mnc": 10.0,
+            "ai_pred": 15.966231346130371,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000296557",
+            "true_mnc": 1.0,
+            "ai_pred": -4.025171279907227,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000303830",
+            "true_mnc": 10.0,
+            "ai_pred": 17.320402145385742,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000394394",
+            "true_mnc": 40.0,
+            "ai_pred": 43.19894027709961,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000216540",
+            "true_mnc": 2.0,
+            "ai_pred": -0.17000579833984375,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000426654",
+            "true_mnc": 41.0,
+            "ai_pred": 43.5238037109375,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000225916",
+            "true_mnc": 19.0,
+            "ai_pred": 27.906740188598633,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000325863",
+            "true_mnc": 14.0,
+            "ai_pred": 17.954429626464844,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000418960",
+            "true_mnc": 138.0,
+            "ai_pred": 42.404441833496094,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000268058",
+            "true_mnc": 5.0,
+            "ai_pred": 12.77324390411377,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000303373",
+            "true_mnc": 54.0,
+            "ai_pred": 38.95845031738281,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000360916",
+            "true_mnc": 6.0,
+            "ai_pred": 15.61071491241455,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000317985",
+            "true_mnc": 2.0,
+            "ai_pred": 19.24237823486328,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000274242",
+            "true_mnc": 87.0,
+            "ai_pred": 77.00945281982422,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000340989",
+            "true_mnc": 10.0,
+            "ai_pred": 19.69514274597168,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000378974",
+            "true_mnc": 4.0,
+            "ai_pred": 16.388996124267578,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000353741",
+            "true_mnc": 85.0,
+            "ai_pred": 85.52232360839844,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000499900",
+            "true_mnc": 14.0,
+            "ai_pred": 22.981101989746094,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000311500",
+            "true_mnc": 11.0,
+            "ai_pred": 8.169849395751953,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000341940",
+            "true_mnc": 7.0,
+            "ai_pred": 13.580530166625977,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000358716",
+            "true_mnc": 1.0,
+            "ai_pred": 2.5594253540039062,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000320543",
+            "true_mnc": 5.0,
+            "ai_pred": 6.362178802490234,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000365891",
+            "true_mnc": 12.0,
+            "ai_pred": 15.282264709472656,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000481486",
+            "true_mnc": 68.0,
+            "ai_pred": 53.82725143432617,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000262319",
+            "true_mnc": 1.0,
+            "ai_pred": 11.393190383911133,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000389714",
+            "true_mnc": 9.0,
+            "ai_pred": 9.825885772705078,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000331201",
+            "true_mnc": 6.0,
+            "ai_pred": 12.630023956298828,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000403172",
+            "true_mnc": 87.0,
+            "ai_pred": 84.88434600830078,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000219548",
+            "true_mnc": 12.0,
+            "ai_pred": 20.042949676513672,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000495530",
+            "true_mnc": 1.0,
+            "ai_pred": -3.530607223510742,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000220592",
+            "true_mnc": 8.0,
+            "ai_pred": 18.81427574157715,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000366413",
+            "true_mnc": 1.0,
+            "ai_pred": -4.937412261962891,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000489236",
+            "true_mnc": 68.0,
+            "ai_pred": 53.81751251220703,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000355206",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946197509765625,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000342848",
+            "true_mnc": 8.0,
+            "ai_pred": 5.049274444580078,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000352257",
+            "true_mnc": 31.0,
+            "ai_pred": 27.052797317504883,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000361021",
+            "true_mnc": 14.0,
+            "ai_pred": 15.869906425476074,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000478725",
+            "true_mnc": 15.0,
+            "ai_pred": 21.806894302368164,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000426632",
+            "true_mnc": 2.0,
+            "ai_pred": 10.052807807922363,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000478289",
+            "true_mnc": 6.0,
+            "ai_pred": 12.25534725189209,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000289473",
+            "true_mnc": 13.0,
+            "ai_pred": 12.721888542175293,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000356155",
+            "true_mnc": 4.0,
+            "ai_pred": 12.702799797058105,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000494162",
+            "true_mnc": 9.0,
+            "ai_pred": 25.516263961791992,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000350708",
+            "true_mnc": 25.0,
+            "ai_pred": 29.944377899169922,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000472445",
+            "true_mnc": 29.0,
+            "ai_pred": 27.386844635009766,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000392812",
+            "true_mnc": 8.0,
+            "ai_pred": 12.558526039123535,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000497916",
+            "true_mnc": 3.0,
+            "ai_pred": 5.492525100708008,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000338934",
+            "true_mnc": 12.0,
+            "ai_pred": 11.909733772277832,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000278568",
+            "true_mnc": 6.0,
+            "ai_pred": 10.853597640991211,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000430432",
+            "true_mnc": 38.0,
+            "ai_pred": 43.05503845214844,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000266000",
+            "true_mnc": 29.0,
+            "ai_pred": 38.579437255859375,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000352069",
+            "true_mnc": 1.0,
+            "ai_pred": -5.153438568115234,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000431254",
+            "true_mnc": 7.0,
+            "ai_pred": 6.101997375488281,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000353735",
+            "true_mnc": 12.0,
+            "ai_pred": 6.108428955078125,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000340883",
+            "true_mnc": 34.0,
+            "ai_pred": 40.120391845703125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000324173",
+            "true_mnc": 7.0,
+            "ai_pred": 7.554252624511719,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000274255",
+            "true_mnc": 9.0,
+            "ai_pred": 20.12053680419922,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000346050",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873840332031,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000327694",
+            "true_mnc": 7.0,
+            "ai_pred": 8.675408363342285,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000462701",
+            "true_mnc": 7.0,
+            "ai_pred": 12.015947341918945,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000332973",
+            "true_mnc": 30.0,
+            "ai_pred": 24.726022720336914,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000419782",
+            "true_mnc": 4.0,
+            "ai_pred": 14.245698928833008,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000270349",
+            "true_mnc": 4.0,
+            "ai_pred": 1.1775054931640625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000263025",
+            "true_mnc": 9.0,
+            "ai_pred": 15.151951789855957,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000284637",
+            "true_mnc": 1.0,
+            "ai_pred": -4.009304046630859,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000356505",
+            "true_mnc": 10.0,
+            "ai_pred": 10.491720199584961,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000317992",
+            "true_mnc": 2.0,
+            "ai_pred": 14.895784378051758,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000354394",
+            "true_mnc": 20.0,
+            "ai_pred": 16.619375228881836,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000175756",
+            "true_mnc": 2.0,
+            "ai_pred": -5.950494766235352,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000194530",
+            "true_mnc": 4.0,
+            "ai_pred": -7.463800430297852,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000367830",
+            "true_mnc": 10.0,
+            "ai_pred": 9.501970291137695,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000301727",
+            "true_mnc": 2.0,
+            "ai_pred": 2.7446041107177734,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000479032",
+            "true_mnc": 11.0,
+            "ai_pred": 7.335517883300781,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000375892",
+            "true_mnc": 6.0,
+            "ai_pred": 18.90789794921875,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000346027",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14915466308594,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000407336",
+            "true_mnc": 29.0,
+            "ai_pred": 29.94620132446289,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000359077",
+            "true_mnc": 5.0,
+            "ai_pred": 8.996566772460938,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000420174",
+            "true_mnc": 1.0,
+            "ai_pred": 6.829616546630859,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000375632",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873077392578,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000494697",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14916229248047,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000352119",
+            "true_mnc": 35.0,
+            "ai_pred": 53.35218811035156,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000382004",
+            "true_mnc": 19.0,
+            "ai_pred": 14.717991828918457,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000404131",
+            "true_mnc": 6.0,
+            "ai_pred": 2.904693603515625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000349722",
+            "true_mnc": 10.0,
+            "ai_pred": 27.066831588745117,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000369497",
+            "true_mnc": 69.0,
+            "ai_pred": 44.140525817871094,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000416429",
+            "true_mnc": 87.0,
+            "ai_pred": 84.88436126708984,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000478771",
+            "true_mnc": 84.0,
+            "ai_pred": 71.65008544921875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000287647",
+            "true_mnc": 17.0,
+            "ai_pred": 18.247163772583008,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000339191",
+            "true_mnc": 19.0,
+            "ai_pred": 16.170034408569336,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000355506",
+            "true_mnc": 9.0,
+            "ai_pred": 19.806468963623047,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000295688",
+            "true_mnc": 11.0,
+            "ai_pred": 17.287490844726562,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000441543",
+            "true_mnc": 94.0,
+            "ai_pred": 65.84152221679688,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000483825",
+            "true_mnc": 14.0,
+            "ai_pred": 20.83901596069336,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000352516",
+            "true_mnc": 29.0,
+            "ai_pred": 30.774551391601562,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000498019",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873077392578,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000368100",
+            "true_mnc": 10.0,
+            "ai_pred": 24.65207290649414,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000466399",
+            "true_mnc": 7.0,
+            "ai_pred": 2.322072982788086,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000410042",
+            "true_mnc": 4.0,
+            "ai_pred": 22.51074981689453,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000304592",
+            "true_mnc": 1.0,
+            "ai_pred": 6.835731506347656,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000352925",
+            "true_mnc": 12.0,
+            "ai_pred": 17.42984390258789,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000501092",
+            "true_mnc": 4.0,
+            "ai_pred": 6.871286392211914,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000346671",
+            "true_mnc": 29.0,
+            "ai_pred": 23.13263702392578,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000317272",
+            "true_mnc": 24.0,
+            "ai_pred": 19.996768951416016,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000243924",
+            "true_mnc": 1.0,
+            "ai_pred": -4.05572509765625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000444810",
+            "true_mnc": 11.0,
+            "ai_pred": 10.973483085632324,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000306245",
+            "true_mnc": 18.0,
+            "ai_pred": 26.144739151000977,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000451828",
+            "true_mnc": 54.0,
+            "ai_pred": 28.771055221557617,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000367034",
+            "true_mnc": 68.0,
+            "ai_pred": 53.82129669189453,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000485033",
+            "true_mnc": 7.0,
+            "ai_pred": 15.475347518920898,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000402301",
+            "true_mnc": 1.0,
+            "ai_pred": -3.542501449584961,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000264832",
+            "true_mnc": 8.0,
+            "ai_pred": 10.495612144470215,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000263209",
+            "true_mnc": 6.0,
+            "ai_pred": 23.75320816040039,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000391601",
+            "true_mnc": 1.0,
+            "ai_pred": 12.536153793334961,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000354671",
+            "true_mnc": 1.0,
+            "ai_pred": 1.8706836700439453,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000243644",
+            "true_mnc": 2.0,
+            "ai_pred": 14.018625259399414,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000423673",
+            "true_mnc": 29.0,
+            "ai_pred": 30.004688262939453,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000270625",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873840332031,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000358866",
+            "true_mnc": 6.0,
+            "ai_pred": 13.446184158325195,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000291700",
+            "true_mnc": 2.0,
+            "ai_pred": 1.0222187042236328,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000296684",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946197509765625,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000391669",
+            "true_mnc": 14.0,
+            "ai_pred": 20.57301902770996,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000321239",
+            "true_mnc": 1.0,
+            "ai_pred": -4.974651336669922,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000278935",
+            "true_mnc": 1.0,
+            "ai_pred": 12.492947578430176,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000421926",
+            "true_mnc": 15.0,
+            "ai_pred": 28.092975616455078,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000261889",
+            "true_mnc": 1.0,
+            "ai_pred": -3.508739471435547,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000307272",
+            "true_mnc": 1.0,
+            "ai_pred": 3.9814186096191406,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000252050",
+            "true_mnc": 2.0,
+            "ai_pred": 2.1604690551757812,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000339795",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14915466308594,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000324856",
+            "true_mnc": 4.0,
+            "ai_pred": -0.7005081176757812,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000479669",
+            "true_mnc": 4.0,
+            "ai_pred": -7.463800430297852,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000355046",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946195602416992,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000381185",
+            "true_mnc": 15.0,
+            "ai_pred": 15.623422622680664,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000339186",
+            "true_mnc": 15.0,
+            "ai_pred": 18.153112411499023,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000343144",
+            "true_mnc": 8.0,
+            "ai_pred": 1.4397106170654297,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000495631",
+            "true_mnc": 8.0,
+            "ai_pred": 12.698808670043945,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000262809",
+            "true_mnc": 1.0,
+            "ai_pred": -4.952583312988281,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000298283",
+            "true_mnc": 84.0,
+            "ai_pred": 85.190673828125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000415430",
+            "true_mnc": 2.0,
+            "ai_pred": 8.903925895690918,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000303706",
+            "true_mnc": 1.0,
+            "ai_pred": 3.5941505432128906,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000346839",
+            "true_mnc": 18.0,
+            "ai_pred": 26.400375366210938,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000254436",
+            "true_mnc": 8.0,
+            "ai_pred": 6.2261199951171875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000262891",
+            "true_mnc": 10.0,
+            "ai_pred": 7.079061508178711,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000378350",
+            "true_mnc": 40.0,
+            "ai_pred": 43.19906234741211,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000216373",
+            "true_mnc": 7.0,
+            "ai_pred": 10.863462448120117,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000429374",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87871551513672,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000274137",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946199417114258,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000377640",
+            "true_mnc": 87.0,
+            "ai_pred": 84.88438415527344,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000326366",
+            "true_mnc": 4.0,
+            "ai_pred": 9.642306327819824,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000261799",
+            "true_mnc": 20.0,
+            "ai_pred": 14.6275053024292,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000216911",
+            "true_mnc": 6.0,
+            "ai_pred": 7.28276252746582,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000367851",
+            "true_mnc": 10.0,
+            "ai_pred": 8.631757736206055,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000264025",
+            "true_mnc": 6.0,
+            "ai_pred": 10.604881286621094,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000358474",
+            "true_mnc": 39.0,
+            "ai_pred": 50.59534454345703,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000313169",
+            "true_mnc": 1.0,
+            "ai_pred": -6.007637023925781,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000254719",
+            "true_mnc": 23.0,
+            "ai_pred": 18.726659774780273,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000280326",
+            "true_mnc": 14.0,
+            "ai_pred": 17.251815795898438,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000404375",
+            "true_mnc": 87.0,
+            "ai_pred": 84.8843765258789,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000398824",
+            "true_mnc": 28.0,
+            "ai_pred": 30.75800132751465,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000313420",
+            "true_mnc": 32.0,
+            "ai_pred": 27.789819717407227,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000431822",
+            "true_mnc": 87.0,
+            "ai_pred": 84.8658676147461,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000355924",
+            "true_mnc": 3.0,
+            "ai_pred": -2.6969356536865234,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000495273",
+            "true_mnc": 87.0,
+            "ai_pred": 77.46924591064453,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000376345",
+            "true_mnc": 62.0,
+            "ai_pred": 32.78557586669922,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000349313",
+            "true_mnc": 25.0,
+            "ai_pred": 30.788291931152344,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000482063",
+            "true_mnc": 40.0,
+            "ai_pred": 46.74186706542969,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000361626",
+            "true_mnc": 6.0,
+            "ai_pred": 19.670719146728516,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000358165",
+            "true_mnc": 3.0,
+            "ai_pred": 11.758964538574219,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000225174",
+            "true_mnc": 10.0,
+            "ai_pred": 5.953649520874023,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000225430",
+            "true_mnc": 87.0,
+            "ai_pred": 84.88438415527344,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000222305",
+            "true_mnc": 4.0,
+            "ai_pred": 16.23065185546875,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000366974",
+            "true_mnc": 68.0,
+            "ai_pred": 53.827919006347656,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000463784",
+            "true_mnc": 88.0,
+            "ai_pred": 56.51502227783203,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000360266",
+            "true_mnc": 26.0,
+            "ai_pred": 32.96030044555664,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000375730",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14917755126953,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000317039",
+            "true_mnc": 9.0,
+            "ai_pred": 14.2307767868042,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000384863",
+            "true_mnc": 3.0,
+            "ai_pred": 1.8107414245605469,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000234420",
+            "true_mnc": 31.0,
+            "ai_pred": 28.546016693115234,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000499289",
+            "true_mnc": 1.0,
+            "ai_pred": -4.994632720947266,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000364597",
+            "true_mnc": 3.0,
+            "ai_pred": 6.703987121582031,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000428184",
+            "true_mnc": 2.0,
+            "ai_pred": 2.0287609100341797,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000258962",
+            "true_mnc": 4.0,
+            "ai_pred": 4.219596862792969,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000351926",
+            "true_mnc": 8.0,
+            "ai_pred": 10.665072441101074,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000359552",
+            "true_mnc": 2.0,
+            "ai_pred": 1.4489879608154297,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000224140",
+            "true_mnc": 1.0,
+            "ai_pred": 7.298225402832031,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000376272",
+            "true_mnc": 4.0,
+            "ai_pred": 5.976137161254883,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000307889",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14915466308594,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000263377",
+            "true_mnc": 10.0,
+            "ai_pred": 16.559917449951172,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000484841",
+            "true_mnc": 58.0,
+            "ai_pred": 45.311012268066406,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000221930",
+            "true_mnc": 3.0,
+            "ai_pred": 8.42205810546875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000339527",
+            "true_mnc": 19.0,
+            "ai_pred": 16.36740493774414,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000421842",
+            "true_mnc": 39.0,
+            "ai_pred": 42.81863021850586,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000351589",
+            "true_mnc": 36.0,
+            "ai_pred": 49.23708724975586,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000374212",
+            "true_mnc": 7.0,
+            "ai_pred": 13.991578102111816,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000418082",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14915466308594,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000360798",
+            "true_mnc": 15.0,
+            "ai_pred": 22.5839900970459,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000484658",
+            "true_mnc": 58.0,
+            "ai_pred": 45.302154541015625,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000365745",
+            "true_mnc": 10.0,
+            "ai_pred": 13.016545295715332,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000378181",
+            "true_mnc": 34.0,
+            "ai_pred": 35.481407165527344,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000463939",
+            "true_mnc": 2.0,
+            "ai_pred": -0.9093799591064453,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000378367",
+            "true_mnc": 5.0,
+            "ai_pred": 10.080981254577637,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000376436",
+            "true_mnc": 4.0,
+            "ai_pred": 10.736062049865723,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000343741",
+            "true_mnc": 13.0,
+            "ai_pred": 19.828113555908203,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000262741",
+            "true_mnc": 17.0,
+            "ai_pred": 22.88479995727539,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000265433",
+            "true_mnc": 16.0,
+            "ai_pred": 22.80682373046875,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000341779",
+            "true_mnc": 1.0,
+            "ai_pred": 9.898233413696289,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000379888",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873840332031,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000300145",
+            "true_mnc": 25.0,
+            "ai_pred": 30.785606384277344,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000350512",
+            "true_mnc": 3.0,
+            "ai_pred": 12.552178382873535,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000480960",
+            "true_mnc": 68.0,
+            "ai_pred": 53.819210052490234,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000218348",
+            "true_mnc": 1.0,
+            "ai_pred": 13.132414817810059,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000244537",
+            "true_mnc": 88.0,
+            "ai_pred": 52.72100830078125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000428223",
+            "true_mnc": 85.0,
+            "ai_pred": 85.5223159790039,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000265709",
+            "true_mnc": 6.0,
+            "ai_pred": 3.286466598510742,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000287842",
+            "true_mnc": 8.0,
+            "ai_pred": 6.33491325378418,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000449328",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14917755126953,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000425979",
+            "true_mnc": 10.0,
+            "ai_pred": 15.820554733276367,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000324806",
+            "true_mnc": 14.0,
+            "ai_pred": 18.24276351928711,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000263774",
+            "true_mnc": 29.0,
+            "ai_pred": 29.946199417114258,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000263087",
+            "true_mnc": 2.0,
+            "ai_pred": 14.110724449157715,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000382218",
+            "true_mnc": 25.0,
+            "ai_pred": 30.785823822021484,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000280772",
+            "true_mnc": 5.0,
+            "ai_pred": 3.3652000427246094,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000266551",
+            "true_mnc": 2.0,
+            "ai_pred": 9.612508773803711,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000364519",
+            "true_mnc": 4.0,
+            "ai_pred": 15.357109069824219,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000304895",
+            "true_mnc": 22.0,
+            "ai_pred": 20.97530174255371,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000363322",
+            "true_mnc": 40.0,
+            "ai_pred": 43.19898986816406,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000272317",
+            "true_mnc": 163.0,
+            "ai_pred": 90.64643096923828,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000497594",
+            "true_mnc": 4.0,
+            "ai_pred": 4.191423416137695,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000250784",
+            "true_mnc": 84.0,
+            "ai_pred": 85.190673828125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000274276",
+            "true_mnc": 5.0,
+            "ai_pred": 15.84469985961914,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000341885",
+            "true_mnc": 86.0,
+            "ai_pred": 85.87873840332031,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000273261",
+            "true_mnc": 3.0,
+            "ai_pred": 6.516101837158203,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000338927",
+            "true_mnc": 1.0,
+            "ai_pred": -4.978513717651367,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000407586",
+            "true_mnc": 10.0,
+            "ai_pred": 13.455655097961426,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000286548",
+            "true_mnc": 2.0,
+            "ai_pred": 16.12874984741211,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000233627",
+            "true_mnc": 29.0,
+            "ai_pred": 29.94620132446289,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000478501",
+            "true_mnc": 42.0,
+            "ai_pred": 41.99183654785156,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000466010",
+            "true_mnc": 87.0,
+            "ai_pred": 77.46924591064453,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000495672",
+            "true_mnc": 86.0,
+            "ai_pred": 85.14916229248047,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000264552",
+            "true_mnc": 42.0,
+            "ai_pred": 42.11846923828125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000373952",
+            "true_mnc": 10.0,
+            "ai_pred": 22.629859924316406,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000493712",
+            "true_mnc": 63.0,
+            "ai_pred": 45.304054260253906,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000294189",
+            "true_mnc": 86.0,
+            "ai_pred": 85.149169921875,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000264033",
+            "true_mnc": 40.0,
+            "ai_pred": 21.977128982543945,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000351209",
+            "true_mnc": 6.0,
+            "ai_pred": -0.023345947265625,
+            "is_test": true
+        },
+        {
+            "node_id": "ENSP00000352252",
+            "true_mnc": 69.0,
+            "ai_pred": 54.03594970703125,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000366404",
+            "true_mnc": 3.0,
+            "ai_pred": 12.828283309936523,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000251871",
+            "true_mnc": 26.0,
+            "ai_pred": 45.94767761230469,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000371420",
+            "true_mnc": 3.0,
+            "ai_pred": 14.167834281921387,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000498750",
+            "true_mnc": 27.0,
+            "ai_pred": 43.79991149902344,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000225792",
+            "true_mnc": 12.0,
+            "ai_pred": 14.096038818359375,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000482538",
+            "true_mnc": 35.0,
+            "ai_pred": 53.352195739746094,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000211998",
+            "true_mnc": 22.0,
+            "ai_pred": 19.636802673339844,
+            "is_test": false
+        },
+        {
+            "node_id": "ENSP00000358154",
+            "true_mnc": 66.0,
+            "ai_pred": 64.74544525146484,
+            "is_test": false
+        }
+    ],
+    "metrics": {
+        "spearman": 0.8610126859299749,
+        "ndcg": 0.9874483320449304
+    }
+}

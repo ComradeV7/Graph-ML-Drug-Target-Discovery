@@ -1,0 +1,15 @@
+# GDTI - Graph-Based Drug Target Identification
+# Install PyTorch first from https://pytorch.org/get-started/locally/
+# Example (CUDA 12.1): pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cu121
+
+torch
+torch-geometric
+networkx
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+pyvis
+requests

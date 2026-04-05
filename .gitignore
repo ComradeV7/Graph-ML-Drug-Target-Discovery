@@ -1,0 +1,21 @@
+# Python Cache (Ignores the __pycache__ folders in root and src)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Raw Data (Usually too large for GitHub and not needed to run the final scripts)
+data/raw/
+
+# Virtual Environments (Just in case you ever build one inside this folder)
+graph-env/
+venv/
+env/
+.env
+
+# OS Generated Files (Good practice to include)
+.DS_Store
+Thumbs.db
