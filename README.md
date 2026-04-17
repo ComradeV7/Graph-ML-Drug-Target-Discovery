@@ -437,7 +437,6 @@ outputs/figures/benchmark_metrics.png
 | **NDCG** | Normalized Discounted Cumulative Gain — measures ranking quality with emphasis on top positions |
 | **Precision@10** | Overlap percentage of the top 10 predicted vs. top 10 true critical nodes (test set) |
 | **MSE (Training)** | Mean squared error on normalized targets during training convergence |
-
 ---
 
 ## Troubleshooting
