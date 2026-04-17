@@ -1,11 +1,3 @@
-"""
-Phase 3: Graph Neural Network Architecture (Feature-Driven)
------------------------------------------------------------
-Objective: Define a custom PyTorch Geometric architecture.
-Utilizes explicit node features (Degree, PageRank) rather than random 
-embeddings to break topological ties and prevent automorphic equivalence.
-"""
-
 import torch
 import torch.nn.functional as F
 from torch_geometric.nn import GATConv
@@ -26,7 +18,8 @@ class DrugTargetGAT(torch.nn.Module):
             out_channels=32, 
             heads=4, 
             concat=True, 
-            dropout=0.2
+            dropout=0.2,
+            edge_dim=1
         )
         
         # Layer 2: Output Regression
@@ -36,7 +29,8 @@ class DrugTargetGAT(torch.nn.Module):
             out_channels=1, 
             heads=1, 
             concat=False, 
-            dropout=0.2
+            dropout=0.2,
+            edge_dim=1
         )
 
     def forward(self, x, edge_index, edge_weights):

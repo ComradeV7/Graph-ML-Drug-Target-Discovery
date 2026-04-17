@@ -18,11 +18,15 @@ os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 
 def load_model_class():
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    model_path = os.path.join(script_dir, "GAT_model.py")
-    spec = importlib.util.spec_from_file_location("GAT_model", model_path)
+    # ABLATION 3
+    # Point to the new GCN script instead of GAT
+    model_path = os.path.join(script_dir, "GCN_model.py")
+    spec = importlib.util.spec_from_file_location("GCN_model", model_path)
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
-    return module.DrugTargetGAT
+    
+    print("\n[!] ABLATION ACTIVE: GAT swapped for GCN (No Attention Mechanism).\n")
+    return module.DrugTargetGCN
 
 def prepare_tensors(graphml_path):
     G = nx.read_graphml(graphml_path)
@@ -151,7 +155,7 @@ def train_pipeline():
     output_payload = {
         'top_targets': top_5_ids,
         'all_results': results_df.to_dict(orient='records'),
-        'metrics': {'spearman': rho, 'ndcg': ndcg} 
+        'metrics': {'spearman': rho, 'ndcg': ndcg}
     }
 
     results_path = os.path.join(script_dir, "..", "data", "processed", "model_outputs.json")

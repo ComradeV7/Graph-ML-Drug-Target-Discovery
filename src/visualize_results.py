@@ -70,7 +70,7 @@ def generate_visual_portfolio():
     # SCIENTIFIC FIX: Clamp negative predictions to 0 (since MNC cannot be negative)
     test_df['ai_pred'] = np.maximum(0, test_df['ai_pred'])
     
-    real_rho, _ = spearmanr(test_df['true_mnc'], test_df['ai_pred'])
+    real_rho = payload['metrics']['spearman']
 
     plt.figure(figsize=(10, 8)) # Slightly more square
     
@@ -87,7 +87,7 @@ def generate_visual_portfolio():
         line_kws={
             'color': '#FF3333', # Vibrant Red
             'label': f'Spearman ρ: {real_rho:.4f}',
-            'linewidth': 2.5    # (Keep singular here, line_kws expects singular)
+            'linewidth': 2.5  
         }
     )
     

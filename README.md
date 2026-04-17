@@ -17,6 +17,7 @@ A bioinformatics pipeline that leverages **Graph Attention Networks (GAT)** to i
   - [Phase 3 — Biological Validation](#phase-3--biological-validation)
   - [Phase 4 — Visualization Suite](#phase-4--visualization-suite)
   - [Phase 5 — Algorithmic Benchmark](#phase-5--algorithmic-benchmark)
+- [Ablation Studies](#ablation-studies)
 - [Pipeline Flow Diagram](#pipeline-flow-diagram)
 - [Output Artifacts](#output-artifacts)
 - [Evaluation Metrics](#evaluation-metrics)
@@ -52,15 +53,21 @@ A bioinformatics pipeline that leverages **Graph Attention Networks (GAT)** to i
 ```
 GDTI/
 ├── README.md
-├── model.py                           # Legacy GAT model (not used in pipeline)
+├── requirements.txt
+├── .gitignore
 │
 ├── src/
 │   ├── data_pipeline.py               # Phase 1: Data ingestion & graph construction
-│   ├── GAT_model.py                   # GAT architecture definition (2-layer)
-│   ├── train_evaluate.py              # Phase 2: Training, evaluation & prediction export
-│   ├── biological_validation.py       # Phase 3: Drug target validation via APIs
-│   ├── visualize_results.py           # Phase 4: Visual report generation
-│   └── algorithmic_benchmark.py       # Phase 5: MNC vs Betweenness benchmarking
+│   ├── GAT_model.py                   # Phase 2: GAT architecture (2-layer, 4-head attention)
+│   ├── GCN_model.py                   # Baseline GCN architecture (for ablation comparison)
+│   ├── train_evaluate.py              # Phase 3: Training, evaluation & prediction export
+│   ├── biological_validation.py       # Phase 4: Drug target validation via APIs
+│   ├── visualize_results.py           # Phase 5: Visual report generation
+│   ├── algorithmic_benchmark.py       # Phase 6: MNC vs Betweenness benchmarking
+│   ├── ablation01.py                  # Ablation: Remove edge weights (confidence scores)
+│   ├── ablation02.py                  # Ablation: Remove PageRank (degree-only features)
+│   ├── ablation03.py                  # Ablation: Replace GAT with GCN (no attention)
+│   └── degree_bias_test.py            # Reliability test: GAT vs GCN degree memorization
 │
 ├── data/
 │   ├── raw/                           # STRING interactome (downloaded manually)
@@ -137,17 +144,17 @@ pip install -r requirements.txt
 <summary><code>requirements.txt</code> (click to expand)</summary>
 
 ```txt
-torch==2.5.1
-torch-geometric==2.7.0
-networkx==3.4.2
-pandas==2.3.3
-numpy==1.26.4
-matplotlib==3.10.8
-seaborn==0.13.2
-scipy==1.15.3
-scikit-learn==1.7.2
-pyvis==0.3.2
-requests==2.33.1
+torch
+torch-geometric
+networkx
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+pyvis
+requests
 ```
 
 > **Note:** When using pip, you must install PyTorch from the appropriate index URL for your CUDA version first. See [pytorch.org/get-started](https://pytorch.org/get-started/locally/).
@@ -218,8 +225,8 @@ Building network and isolating 1-hop Breast Cancer module...
 Calculating MNC criticality labels for extracted proteins...
 
 PIPELINE COMPLETE.
- -> Total Proteins (Nodes): ~2300+
- -> Total Interactions (Edges): ~35000+
+ -> Total Proteins (Nodes): ~813
+ -> Total Interactions (Edges): ~10,280
  -> Labeled graph successfully serialized to: data/processed/breast_cancer_subgraph.graphml
 ```
 
@@ -473,6 +480,15 @@ python src/train_evaluate.py
 python src/biological_validation.py
 python src/visualize_results.py
 python src/algorithmic_benchmark.py
+
+# Run ablation studies (optional)
+python src/ablation01.py
+python src/ablation02.py
+python src/ablation03.py
+python src/degree_bias_test.py
+
+# Re-run main training to restore primary predictions after ablations
+python src/train_evaluate.py
 ```
 
 ---

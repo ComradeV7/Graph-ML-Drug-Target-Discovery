@@ -103,6 +103,11 @@ def train_pipeline():
     data, y_mean, y_std, y_original = prepare_tensors(data_path)
     data = data.to(device)
 
+    # ABLATION 1
+    # We strip away the STRING confidence scores and force all edge weights to 1.0
+    data.edge_attr = torch.ones_like(data.edge_attr)
+    print("\n[!] ABLATION ACTIVE: Edge weights (confidence scores) removed.\n")
+
     model = load_model_class()(num_node_features=2).to(device)
     optimizer = torch.optim.Adam(model.parameters(), lr=0.01, weight_decay=5e-4)
     scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, mode='min', factor=0.5, patience=30)
@@ -151,7 +156,7 @@ def train_pipeline():
     output_payload = {
         'top_targets': top_5_ids,
         'all_results': results_df.to_dict(orient='records'),
-        'metrics': {'spearman': rho, 'ndcg': ndcg} 
+        'metrics': {'spearman': rho, 'ndcg': ndcg}
     }
 
     results_path = os.path.join(script_dir, "..", "data", "processed", "model_outputs.json")

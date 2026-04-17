@@ -103,7 +103,12 @@ def train_pipeline():
     data, y_mean, y_std, y_original = prepare_tensors(data_path)
     data = data.to(device)
 
-    model = load_model_class()(num_node_features=2).to(device)
+    # ABLATION PHASE 2 MODIFICATION
+    # Slice the feature matrix to keep only Column 0 (Degree) and drop Column 1 (PageRank)
+    data.x = data.x[:, 0].unsqueeze(1)
+    print("\n[!] ABLATION ACTIVE: PageRank feature removed (Using Degree only).\n")
+
+    model = load_model_class()(num_node_features=1).to(device)
     optimizer = torch.optim.Adam(model.parameters(), lr=0.01, weight_decay=5e-4)
     scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, mode='min', factor=0.5, patience=30)
     
@@ -151,7 +156,7 @@ def train_pipeline():
     output_payload = {
         'top_targets': top_5_ids,
         'all_results': results_df.to_dict(orient='records'),
-        'metrics': {'spearman': rho, 'ndcg': ndcg} 
+        'metrics': {'spearman': rho, 'ndcg': ndcg}
     }
 
     results_path = os.path.join(script_dir, "..", "data", "processed", "model_outputs.json")
